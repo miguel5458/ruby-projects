@@ -1,2 +1,2 @@
 # ruby-projects
->> here is the folder with some of the apps and codes relationed to ruby on rails experience that i've got.
+>> aqui está a pasta com alguns dos aplicativos e códigos relacionados à experiência Ruby on Rails que eu tenho.
